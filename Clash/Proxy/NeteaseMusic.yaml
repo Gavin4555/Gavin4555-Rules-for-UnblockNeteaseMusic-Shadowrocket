@@ -6,7 +6,7 @@
 proxies:
   - name: 🎶 解锁
     type: ss
-    server: music.gavingoo.cn
-    port: 33163
+    server: 20.247.93.67
+    port: 44163
     cipher: aes-128-gcm
     password: make_neteasemusic_great_again
