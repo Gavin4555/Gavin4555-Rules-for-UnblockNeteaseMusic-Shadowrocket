@@ -1,5 +1,5 @@
 # Base:    https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/
-# URL:     https://raw.githubusercontent.com/Gavin4555/Rules-for-UnblockNeteaseMusic/master/Clash/UnblockNeteaseMusic.yaml
+# URL:     https://raw.githubusercontent.com/Gavin4555/emmm/master/Clash/UnblockNeteaseMusic.yaml
 ##  以下为原作者内容，基于原作者增添了几条规则，同时使网易在ios上请求httpdns的返回为空   ##
 # URL:     https://raw.githubusercontent.com/DesperadoJ/Rules-for-UnblockNeteaseMusic/master/Clash/UnblockNeteaseMusic.yaml
 # Project: https://github.com/DesperadoJ/Rules-for-UnblockNeteaseMusic
